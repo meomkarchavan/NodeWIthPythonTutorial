@@ -31,7 +31,7 @@ Open browser
 ## Built With
 
 * [Node.js](https://nodejs.org/) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
-* [Express](https://www.npmjs.com/package/express)) - Fast, unopinionated, minimalist web framework for  [node](http://nodejs.org/).
+* [Express](https://www.npmjs.com/package/express) - Fast, unopinionated, minimalist web framework for  [node](http://nodejs.org/).
 
 ## Find me on
 * **Instagram** - [*omkarchavan.dev*](https://www.instagram.com/omkarchavan.dev/)  
